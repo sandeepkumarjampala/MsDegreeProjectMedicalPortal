@@ -111,7 +111,7 @@ const Prescription = (props) => {
     setPrescription("");
   };
 
-  //DOWNLOAD PRESCRIPTION FUNCTION
+ 
   const downloadPrescription = () => {
     var doc = new jsPDF();
     var i = 20;
