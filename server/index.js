@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 5000;
 
 const users = {};
 
-const socketToRoom = {};
+const socketToRoom = {}
 
 app.get("/", (req, res) => {
   res.send("Server is running");
