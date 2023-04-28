@@ -133,24 +133,16 @@ export const card = {
   flexDirection: "column",
 };
 
-// FOOTER SECTION
 
-export const footerBox = {
-  py: 1,
-  backgroundColor: "#3284be",
-  color: "#ffffff",
-};
+
+
 
 export const iconButton = {
   color: "#ffffff",
   "&:hover": { fontWeight: "bold" },
 };
 
-export const footerTitle = {
-  mt: 1,
-  fontFamily: "Raleway",
-  fontWeight: "bold",
-};
+
 
 export const sendButton = {
   color: "#3284be",

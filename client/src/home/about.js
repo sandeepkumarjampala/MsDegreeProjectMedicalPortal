@@ -20,7 +20,7 @@ const About = () => {
         gutterBottom
         sx={description}
       >
-        Medicare is for those people who don't want to wait in long queues to
+        Medical Portal is for those people who don't want to wait in long queues to
         book an appointment with one of the best doctors nearby and also for
         those doctors who wish to consult their patients at their own
         convenience.

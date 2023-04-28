@@ -16,7 +16,7 @@ const Navbar = (props) => {
           noWrap
           sx={title}
         >
-          MEDICARE
+          MEDICAL PORTAL DEGREE PROJECT
         </Typography>
       </Toolbar>
 

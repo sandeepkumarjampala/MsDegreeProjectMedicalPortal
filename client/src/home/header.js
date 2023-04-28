@@ -10,7 +10,7 @@ const Header = () => {
         <img
           style={{ display: "none" }}
           src={process.env.PUBLIC_URL + "images/home.jpg"}
-          alt="Medicare"
+          alt="Medical Portal"
         />
       }
       <Box sx={box} />

@@ -5,8 +5,8 @@ import Navbar from "./navbar";
 import Header from "./header";
 import Register from "./register";
 import About from "./about";
-import Testimonials from "./testimonials";
-import Footer from "./footer";
+
+
 
 const sections = [
   { title: "Home", url: "#" },
@@ -34,10 +34,8 @@ const Home = () => {
           <br />
           {/* ABOUT COMPONENT - about doctors */}
           <About />
-          {/* TESTIMONIALS COMPONENT - patient testimonials */}
-          <Testimonials />
-          {/* FOOTER COMPONENT - contacts */}
-          <Footer />
+          
+          
         </main>
       </Container>
     </ThemeProvider>
